@@ -28,5 +28,5 @@ streamlit_chat
 torch
 torchvision
 Unidecode
-#unstructured==0.14.8
+unstructured==0.14.8
 #wikipedia==1.4.0
